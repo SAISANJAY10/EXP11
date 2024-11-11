@@ -1,4 +1,4 @@
-# Experiment 11: ELLIPTIC CURVE CRYPTOGRAPHY(ECC)
+# Exp 11: ELLIPTIC CURVE CRYPTOGRAPHY(ECC)
  
 ## Aim:
 To implement elliptic curve cryptography (ECC) for secure key exchange between two users.
