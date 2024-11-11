@@ -33,8 +33,8 @@ To implement elliptic curve cryptography (ECC) for secure key exchange between t
 
 ## Code:
 ```
-Name : SAI SANJAY R
-Register no : 212223040178
+Name : LEKASRI G
+Register no : 212223100025
 ```
 ```c
 #include <stdio.h>
@@ -148,7 +148,7 @@ int main() {
 ```
 
 ## Output:
-![exp 11](https://github.com/user-attachments/assets/ea6c7c78-72e9-4379-95e7-270edb7372b8)
+![image](https://github.com/user-attachments/assets/4a4dcf66-b0f7-4959-9bfa-5ce20e535662)
 
 
 ## Result:
